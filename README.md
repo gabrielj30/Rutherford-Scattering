@@ -1,6 +1,5 @@
 # README: Rutherford Scattering Experiment
 **Author:** Gabriel J  
-**Date:** 4/17/2024  
 
 ---
 
@@ -12,9 +11,9 @@ The goal of this lab was to experimentally validate the Rutherford Scattering fo
 ## Theory  
 The experiment is based on Rutherford’s model, which describes the scattering of charged particles by a positively charged nucleus. The differential scattering cross-section formula used is:
 
-\[
+$$
 \frac{d\sigma}{d\Omega} = \frac{(Ze^2 z^2 e^4)}{16 E^2 \sin^4(\theta/2)}
-\]
+$$
 
 Where:  
 - \(Z\) = nuclear charge  
@@ -42,14 +41,21 @@ Where:
 ---
 
 ## Data & Calculations  
+
 - **Scattering angles:**  
   - \( \theta_2 = 31.4^\circ \)  
   - \( \theta_1 = 19.1^\circ \)  
   - \( \theta = 50.5^\circ \)  
+
 - **Cross-section calculation:**  
-  - \( G = 5.58 \times 10^{-7} \)  
+$$
+G = 5.58 \times 10^{-7}
+$$  
+
 - **Particle count:**  
-  - \( N_0 = 2.47 \times 10^7 \)  
+$$
+N_0 = 2.47 \times 10^7
+$$  
 
 ---
 
